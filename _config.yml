@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Dovi Frontend Developer
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Doyeon Kim
+  email: kimdov125@gmail.com
 
 plugins:
   - jemoji
