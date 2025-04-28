@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Purpose of Education
-date: 1948-12-12 10:18:00
+title: 풀무원 개발일지
+date: 2025-02-25 10:18:00
 categories: [fiction, jekyll]
 ---
 
